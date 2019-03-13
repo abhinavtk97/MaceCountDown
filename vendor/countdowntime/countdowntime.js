@@ -9,7 +9,7 @@
           endtimeYear: 2019,
           endtimeMonth: 5,
           endtimeDate: 14,
-          endtimeHours: 2,
+          endtimeHours: 14,
           endtimeMinutes: 0,
           endtimeSeconds: 0,
         }
